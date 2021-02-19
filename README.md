@@ -8,7 +8,5 @@
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=joelxcabana.joelxcabana)
 
 <br/>
-<br/>
-
 <img src="https://userscontent2.emaze.com/images/55a51533-5f9b-41ef-996c-d547a8eb9348/8a98b9eb40a7287b3a143b699e3317f6.png"></img>
 
