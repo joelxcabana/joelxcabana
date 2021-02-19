@@ -4,11 +4,8 @@
   <img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613413313~hmac=c88ff7972df5b6c62205582f82f7a27f" />
 </a>
 
-<a href="https://twitter.com/hebertdev1">
-  <img align="left" alt="hebert villafuerte | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<br />
+<br/>
+<br/>
 
 <img src="https://userscontent2.emaze.com/images/55a51533-5f9b-41ef-996c-d547a8eb9348/8a98b9eb40a7287b3a143b699e3317f6.png"></img>
 
