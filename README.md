@@ -1,7 +1,7 @@
 ### !Hola!, soy [Joel](https://joelcabana.netlify.app/), de Argentina, un aficionado a la programación y un amante de los creadores de proyectos de alto impacto 🚀 , soy graduado de Analista Programador, autodidacta con el objetivo de cambiar e innovar usando la tecnología.
 
 <a href="https://www.linkedin.com/in/joelxcabana/" target="_blank">
-  <img align="left" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613413313~hmac=c88ff7972df5b6c62205582f82f7a27f" />
+  <img align="left" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Flinkedin_174857&psig=AOvVaw2fuYMrH4Ef0kk9PaCqJUv_&ust=1621192356830000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiwtKayzPACFQAAAAAdAAAAABAI" />
 </a>
 
 
