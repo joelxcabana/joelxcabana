@@ -1,6 +1,6 @@
 ### !Hola!, soy [Joel](https://joelcabana.netlify.app/), de Argentina, un aficionado a la programación y un amante de los creadores de proyectos de alto impacto 🚀 , soy graduado de Analista Programador, autodidacta con el objetivo de cambiar e innovar usando la tecnología.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joelxcabana)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelxcabana&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/joelxcabana/" target="_blank">
   <img align="left" width="50px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-s%C3%ADmbolo.png" />
