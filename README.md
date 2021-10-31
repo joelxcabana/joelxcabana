@@ -5,9 +5,7 @@
 </a>
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelxcabana&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelxcabana&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=joelxcabana.joelxcabana)
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=joelxcabana&left_color=green&right_color=red)
