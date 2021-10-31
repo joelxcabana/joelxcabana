@@ -3,7 +3,7 @@
  <a href="https://www.linkedin.com/in/joelxcabana/" target="_blank">
  <img align="left" width="50px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-s%C3%ADmbolo.png" />
 </a>
-
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelxcabana&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelxcabana&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
